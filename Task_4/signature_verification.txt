@@ -1,0 +1,16 @@
+Signature Verification Report
+
+Verification succeeded:
+- The signature was created on Mon 01 Dec 2025 02:52:38 PM +04.
+- It used Alice’s EDDSA private key (F0EE5B3F97C35BCB7E2A59AD037F92586B6C2F60).
+- GPG output confirmed: "Good signature from Alice <alice@sangu.ge>".
+
+Explanation:
+1. Authenticity – The signature proves that the message was signed with Alice’s private key. 
+   Since only Alice controls her private key, this confirms the sender is Alice.
+2. Integrity – The signature check ensures the message has not been altered since Alice signed it.
+   If any modification had occurred, the signature verification would fail.
+
+Conclusion:
+The signature validates the sender as Alice <alice@sangu.ge> and guarantees that the 
+message is both authentic and unchanged.
